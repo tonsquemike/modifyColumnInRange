@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Funciones_Image">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/Funciones_Image.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

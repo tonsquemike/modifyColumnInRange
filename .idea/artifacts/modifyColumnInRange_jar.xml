@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modifyColumnInRange:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/modifyColumnInRange_jar</output-path>
+    <root id="archive" name="modifyColumnInRange.jar">
+      <element id="module-output" name="modifyColumnInRange" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/Funciones_Image.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/0000_extractArgs.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

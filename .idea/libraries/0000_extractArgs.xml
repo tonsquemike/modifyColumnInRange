@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="0000_extractArgs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/0000_extractArgs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
