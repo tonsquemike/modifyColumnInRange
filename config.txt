@@ -1,0 +1,2 @@
+-IN C:\SOCO_AllInOne\testg.csv
+-OUT C:\SOCO_AllInOne\testgRANGE.csv

@@ -1,0 +1,1 @@
+java -jar C:\Users\UAEM\Documents\NetBeansProjects\modifyColumnInRange\dist\modifyColumnInRange.jar -CONFIG config.txt
